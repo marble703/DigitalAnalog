@@ -1,0 +1,2 @@
+#### 训练命令格式
+python detect.py --source D:/programme/2022mathorcupB/2024mathorcupB/4/4_Recognize/测试集 --weights "C:\Users\admin\anaconda3\envs\yolov5\runs\train\exp24\weights\best.pt" --conf 0.4 --save-txt --save-conf

@@ -1,0 +1,15 @@
+#图像文件夹的根目录
+path: D:/programme/2022mathorcupB/2024mathorcupB/2/
+
+#训练集图像文件相对路径
+train: D:/programme/2022mathorcupB/2024mathorcupB/2/train/
+
+#验证集图像文件路径
+val: D:/programme/2022mathorcupB/2024mathorcupB/2/val/
+
+#测试集图像文件路径
+test: D:/programme/2022mathorcupB/2024mathorcupB/2/test/
+
+#分类
+names:
+  0: oracle
